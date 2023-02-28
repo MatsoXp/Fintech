@@ -3,7 +3,7 @@
 https://java-fintech-tgw.herokuapp.com/
   
   
-<h4>Fintech é uma aplicação para gerenciamento financeiro, que permite que o usuário registre e controle receitas e despesas cadastradas. <h4>
+<h3>Fintech é uma aplicação para gerenciamento financeiro, que permite que o usuário registre e controle receitas e despesas cadastradas. </h3>
     
 Caso seja o primeiro acesso, o usuário deve se registrar, em seguida fazer o login com os dados cadastrados. 
     
