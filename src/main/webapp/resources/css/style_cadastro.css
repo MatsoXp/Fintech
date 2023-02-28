@@ -1,0 +1,66 @@
+body {
+	background: #0e8aaf;
+	font-family: var(--bs-font-sans-serif);
+}
+
+.logo {
+	margin: 12px 0 0 24px;
+}
+
+.box {
+	background: #FFFFFF;
+	width: 264px;
+	height: 464px;
+	border-radius: 5px;
+	margin: 50px auto 0;
+	padding-top: 50px;
+	text-align: center;
+}
+
+h1 {
+	color: #000000;
+	font-style: normal;
+	font-size: 18px;
+	font-weight: 600;
+	text-align: center;
+	margin-bottom: 15px;
+}
+
+form {
+	display: inline-block;
+}
+
+::placeholder {
+	text-align: center;
+}
+ 
+label {
+	display: block;
+	margin: 20px 0 5px; 
+	text-align: left;
+}
+
+.form-control {
+	border: 1px solid #797474;
+	border-radius: 3px;
+	height: 30px;
+}
+
+button.concluir {
+	background: #F0EDED;
+	border: 3px solid #1EA6D196;
+	color: black;
+	border-radius: 5px;
+	font-size: 14px;
+	width: 140px;
+	height: 35px;
+	margin: 45px auto;
+	display: block;
+}
+
+.criar_conta{
+	margin-top: 15px;
+}
+
+
+
