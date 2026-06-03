@@ -6,7 +6,7 @@ O projeto permite o cadastro de usuários, autenticação de login, gerenciament
 
 ---
 
-# 📸 Screenshots
+# Screenshots
 
 ## Login
 
