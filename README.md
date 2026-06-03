@@ -8,11 +8,11 @@ O projeto permite o cadastro de usuários, autenticação de login, gerenciament
 
 # 📸 Screenshots
 
-## Tela de Login
+## Login
 
 ![Login](screenshots/login.png)
 
-## Cadastro de Usuário
+## Cadastro
 
 ![Cadastro](screenshots/cadastro.png)
 
@@ -30,7 +30,7 @@ O projeto permite o cadastro de usuários, autenticação de login, gerenciament
 
 ---
 
-# 🚀 Funcionalidades
+# Funcionalidades
 
 - Cadastro de usuários
 - Autenticação de login
@@ -45,9 +45,9 @@ O projeto permite o cadastro de usuários, autenticação de login, gerenciament
 
 ---
 
-# 🏗️ Arquitetura
+# Arquitetura
 
-O sistema foi desenvolvido utilizando o padrão MVC (Model-View-Controller).
+O sistema foi desenvolvido utilizando o padrão MVC.
 
 ```text
 View (JSP)
@@ -61,7 +61,7 @@ Oracle Database
 
 ---
 
-# 🛠️ Tecnologias Utilizadas
+# Tecnologias Utilizadas
 
 ## Backend
 
@@ -95,7 +95,7 @@ Oracle Database
 
 ---
 
-# 📂 Estrutura do Projeto
+# Estrutura do Projeto
 
 ```text
 src/main/java
@@ -133,7 +133,7 @@ src/main/java
 
 ---
 
-# 🔄 Fluxo da Aplicação
+# Fluxo da Aplicação
 
 1. Usuário realiza login no sistema.
 2. O Servlet recebe a requisição.
